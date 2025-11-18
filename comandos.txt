@@ -1,0 +1,3 @@
+EJ1
+    mkdir examenOtero
+    mkdir examenOtero/{prog,si,bbdd}
