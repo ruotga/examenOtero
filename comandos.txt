@@ -1,3 +1,10 @@
 EJ1
     mkdir examenOtero
     mkdir examenOtero/{prog,si,bbdd}
+EJ2
+    cd examenOtero/
+    touch prog/index.php
+EJ3
+    cd si/
+    cp ../prog/index.php ../bbdd/consultas.sql
+    
