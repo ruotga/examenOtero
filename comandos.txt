@@ -7,3 +7,19 @@ EJ2
 EJ3
     cd si/
     cp ../prog/index.php ../bbdd/consultas.sql
+EJ4
+    cd ..
+    mkdir si/git
+EJ5
+    cd si/git
+EJ6
+    touch ../../login
+EJ7
+    rm ../../bbdd/consultas.sql
+EJ8
+    mv ../../prog/index.php index2.php
+EJ9
+    echo "select * from clientes" >> ../../login
+EJ10
+    cd ../../..
+    rm -r examenOtero
