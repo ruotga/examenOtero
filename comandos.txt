@@ -7,4 +7,3 @@ EJ2
 EJ3
     cd si/
     cp ../prog/index.php ../bbdd/consultas.sql
-    
